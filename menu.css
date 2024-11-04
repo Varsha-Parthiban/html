@@ -1,0 +1,40 @@
+.menubar{
+    width: 40%;
+    background-color: cadetblue;
+    overflow: auto;
+    border: 2px solid black;
+}
+
+.menubar a{
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+    float: left;
+    width: 60px;
+}
+
+.menubar a:hover{
+    background-color: aqua;
+}
+
+.menu{
+    width: 80px;
+    background-color: cadetblue;
+    overflow: auto;
+    border: 2px solid black;
+}
+
+.menu a{
+    text-align: center;
+    padding: 15px;
+    font-size: 40px;
+    color: black;
+    float:inline-end;
+    width: 60px;
+}
+
+.menu a:hover{
+    background-color: aqua;
+}
+

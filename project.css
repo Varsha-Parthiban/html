@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    overflow:hidden;
+
+}
+.photo img{
+   
+    margin-left: 1030px; 
+    margin-top: -8px;
+    height: 400px;
+    width: 700px;
+    
+    
+}
+
+.logo {
+    margin-top: -540px;
+    margin-left: 400px;
+}
+
+.one{
+   
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin-left: 1300px;
+    line-height: 20px;
+    font-weight: 100;
+    color: #002B31;
+    
+}
+
+.two{
+    font-family:"Inter", sans-serif;
+    text-align: center;
+    margin-left: 1250px;
+    width: 350px;
+    font-weight:100;
+    color: #002B31;
+    font-weight: bolder;
+    line-height: 13px;
+
+}
+
+.three{
+    font-family:"Inter", sans-serif ;
+    color: #002B31;
+    margin-left: 400px;
+    margin-top: 2px;
+}
+
+.four{
+    font-family:"Inter", sans-serif ;
+    color: #757D7C;
+    
+    margin-left: 400px;
+}
+
+.five button{
+    height: 45px;
+    width: 350px;
+    margin-left: 400px;
+    margin-top: 30px;
+    background-color:white;
+    border-radius: 5px;
+    border: 1px solid #939494;
+    padding-right: 30px;
+    padding-bottom: 7px;
+}
+
+
+    
+.five img{
+    height: 43px;
+    width: 349px;
+    margin-top: -1px;
+    margin-left: -6px;
+   
+}
+
+.six {
+    
+    width: 75px;
+    color: #e0e0e0;
+    /* margin-left: 300px;
+    margin-top: 20px; */
+}
+
+.seven{
+    width: 75px;
+    color: #e0e0e0;
+    /* margin-left: 570px;
+    margin-top: -10px; */
+}
+
+.eight label{
+    color: #878e96;
+    margin-top: -10px;
+    font-family:"Inter", sans-serif ;
+    /* margin-left: 400px; */
+}
+
+
+
+.nine button{
+    height: 45px;
+    width: 350px;
+    margin-left: 400px;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: white;
+    padding-right: 255px;
+    border:2px solid #939494;
+}
+
+.nine label{
+   color: #282b2b;
+}
+
+.ten button{
+    height:45px ;
+    width: 350px;
+    margin-left: 400px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: white;
+    padding-right: 230px;
+    border:2px solid #939494;
+}
+
+.ten label{
+    color: #282b2b;
+}
+
+.eleven{
+    color: #282b2b;
+    font-family:"Inter", sans-serif ;
+    margin-left: 600px;
+}
+
+.twelve button{
+    height: 45px;
+    width: 350px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color: #282b2b;
+    padding-top: 10px;
+
+}
+
+.twelve h3{
+    color: #FFFFFF;
+    font-family:"Inter", sans-serif ;
+    margin-right: 7px;
+    margin-top: -0.5px;
+    
+
+}
+
+.thirteen{
+    font-family:"Inter", sans-serif ;
+    margin-left: 470px;
+    margin-top: -30px;
+    color: #282b2b;
+}
+
+.fourteen   {
+    font-family:"Inter", sans-serif ;
+    margin-left: 410px;
+    margin-top: 2px;
+}
+
+.arrange{
+    display: flex;
+    /* gap: 10px; */
+    width: 26%;
+    margin-left: 25%;
+    margin-top: 20px;
+}

@@ -1,0 +1,56 @@
+@keyframes varsha{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@keyframes camp{
+    0%{
+        margin-left: 0px;
+    }
+    50%{
+        margin-left: 50px;
+    }
+    100%{
+        margin-left: 100px; 
+    }
+}
+
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+        margin-left: 0px;
+    }
+    50%{
+        transform: rotate(180deg);
+        margin-left: 50px;
+    }
+    100%{
+        transform: rotate(360deg);
+        margin-left: 100px;
+    }
+}
+
+
+
+.welcome{
+    color: blue;
+    animation: varsha 5s ease-in-out;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    animation: camp 5s infinite linear;
+}
+
+.next{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    animation: rotate 3s infinite linear alternate;
+}

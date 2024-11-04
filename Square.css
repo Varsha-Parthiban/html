@@ -1,0 +1,54 @@
+.hi{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+    margin-right:200px;
+    margin-top: 500px;
+
+}
+.bye{
+    padding-left: 110px;
+    padding-top: 100px;
+}
+
+.me{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+    margin-left:600px;
+    margin-top: -290px;
+}
+.you{
+    padding-left: 70px;
+    padding-top: 120px;
+
+}
+
+.three{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+    margin-left:75%;
+    margin-top: -20%;
+
+}
+.third{
+    padding-left: 120px;
+    padding-top: 100px;
+}
+
+body{
+    background-image: url(./Pics/lily.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}

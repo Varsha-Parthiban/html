@@ -1,0 +1,53 @@
+table{
+    height: 200px;
+    width: 400px;
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: blueviolet;
+}
+
+th:hover{
+    background-color: beige;
+}
+
+td{
+    background-color: aqua;
+    text-align: center;
+
+}
+
+td:hover{
+    background-color: blue;
+}
+
+table{
+    margin-left: 1050px;
+    margin-top: 250px;
+}
+
+body{
+    background-image: url(./Pics/lily.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.heading{
+    margin-left:510px ;
+    margin-top: -410px;
+}
+
+.ootypic{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.ootext{
+    text-align:justify;
+}
